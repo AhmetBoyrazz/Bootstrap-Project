@@ -66,9 +66,9 @@ section#instructors .socials i:hover {
 }
 
 /*! ----------- 4- STUDENTS SECTION ----------*/
-section#students img{
-  max-width: 500px;
-  min-width: 250px;
+section#students img {
+  max-width: 400px;
+  min-width: 200px;
 }
 
 /*! ----------- 5- COURSES SECTION ----------- */
